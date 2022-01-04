@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\PositiveNegativeZero\bin\Debug\PositiveNegativeZero.exe.config
+C:\Users\Nolan Pawelski\Desktop\PositiveNegativeZero\bin\Debug\PositiveNegativeZero.exe
+C:\Users\Nolan Pawelski\Desktop\PositiveNegativeZero\bin\Debug\PositiveNegativeZero.pdb
+C:\Users\Nolan Pawelski\Desktop\PositiveNegativeZero\obj\Debug\PositiveNegativeZero.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\PositiveNegativeZero\obj\Debug\PositiveNegativeZero.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\PositiveNegativeZero\obj\Debug\PositiveNegativeZero.exe
+C:\Users\Nolan Pawelski\Desktop\PositiveNegativeZero\obj\Debug\PositiveNegativeZero.pdb
